@@ -9,3 +9,8 @@
 
 # /src/
 /src/Solution.pro.user
+src/.qmake.stash
+src/Common/Version.h
+
+Makefile
+*.so*
